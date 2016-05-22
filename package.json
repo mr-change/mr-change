@@ -1,0 +1,66 @@
+{
+  "name": "mr-change",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A change log generator for npm and GitHub projects",
+  "keywords": [
+    "changelog",
+    "change log",
+    "commit messages",
+    "commits",
+    "changes",
+    "history",
+    "what's new",
+    "change set"
+  ],
+  "preferGlobal": true,
+  "homepage": "http://github.com/mr-change/mr-change/",
+  "author": "iwatakeshi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mr-change/mr-change.git"
+  },
+  "bugs": {
+    "mail": "iwatakeshi@gmail.com",
+    "url": "http://github.com/mr-change/mr-change/issues"
+  },
+  "main": "index.js",
+  "bin": {
+    "mrchange": "./bin/mrchange.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "chalk": "^1.1.3",
+    "fs-extra": "^0.30.0",
+    "github-api": "^2.0.0",
+    "liftoff": "^2.2.1",
+    "lodash": "^4.12.0",
+    "moment": "^2.5.0",
+    "mr-doc-utils": "^2.3.1",
+    "parse-github-url": "^0.3.1",
+    "request-promise": "^3.0.0",
+    "semver": "^5.1.0",
+    "v8flags": "^2.0.11",
+    "yargs": "^4.7.1"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint-plugin-react": "*",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.0",
+    "eslint-plugin-jsx-a11y": "^1.2.2",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "echo 'no tests yet'"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/mr-change/mr-change/master/LICENSE"
+    }
+  ]
+}

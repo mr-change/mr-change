@@ -1,0 +1,67 @@
+{
+  "result": {
+    "commits": [
+      {
+        "sha": "7797d5c27bd17c7790b49eaba2f6008d6c369c8a",
+        "date": "2016-05-22T19:49:12Z",
+        "author": {
+          "name": "Takeshi",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1505448?v=3",
+          "html_url": "https://github.com/iwatakeshi"
+        },
+        "committer": {
+          "name": "Takeshi",
+          "username": "iwatakeshi",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1505448?v=3",
+          "html_url": "https://github.com/iwatakeshi"
+        },
+        "message": "Initial commit",
+        "tree": {
+          "sha": "f21f1b622bbdf14c5b10e97c88a96237f93bae0c",
+          "url": "https://api.github.com/repos/mr-change/mr-change/git/trees/f21f1b622bbdf14c5b10e97c88a96237f93bae0c"
+        }
+      }
+    ],
+    "options": {
+      "version": false,
+      "project": "mr-change/mr-change",
+      "release": "all",
+      "output": "terminal",
+      "log": "info, warn, error"
+    }
+  },
+  "versions": [
+    {
+      "date": "2016-05-22T00:00:00.000Z",
+      "commits": [
+        {
+          "sha": "7797d5c27bd17c7790b49eaba2f6008d6c369c8a",
+          "date": "2016-05-22T19:49:12Z",
+          "author": {
+            "name": "Takeshi",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1505448?v=3",
+            "html_url": "https://github.com/iwatakeshi"
+          },
+          "committer": {
+            "name": "Takeshi",
+            "username": "iwatakeshi",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1505448?v=3",
+            "html_url": "https://github.com/iwatakeshi"
+          },
+          "message": "Initial commit",
+          "tree": {
+            "sha": "f21f1b622bbdf14c5b10e97c88a96237f93bae0c",
+            "url": "https://api.github.com/repos/mr-change/mr-change/git/trees/f21f1b622bbdf14c5b10e97c88a96237f93bae0c"
+          }
+        }
+      ]
+    }
+  ],
+  "options": {
+    "version": false,
+    "project": "mr-change/mr-change",
+    "release": "all",
+    "output": "terminal",
+    "log": "info, warn, error"
+  }
+}
